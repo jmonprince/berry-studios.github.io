@@ -1,11 +1,11 @@
 img {
     
-    text-align:center;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;  
-    margin-top: 0px;
+    width: 40%;  
+    margin-top: 200px;
+
     
     
 }
@@ -26,7 +26,8 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 50%;  
-    margin-top: 400;
+    margin-top: 10;
+    font-style: italic;
     
     
 }
