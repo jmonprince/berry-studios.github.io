@@ -1,0 +1,109 @@
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    
+    
+    
+}
+
+h2 {
+    font-family: arial;
+    text-align: center;
+ 
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    
+    
+    
+}
+
+
+
+h1 {
+    font-family: arial;
+    text-align: center;
+    font-size: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 200px;
+ 
+    
+    
+    
+}
+
+
+
+a:link {
+    
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+
+
+a:visited {
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+
+
+a:hover {
+    text-decoration: none;
+    color: red;
+    
+}
+
+
+
+ol {
+    list-style: none;
+    font-family: arial;
+    font-size: 15px;
+    display: block;
+    overflow:auto;
+    margin-right: auto;
+    margin-left: auto;  
+    display: inline;
+    font-weight: 600;
+    color: black;
+    text-transform: uppercase;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+      margin-right: 30px;
+    margin-top: 0px;
+    
+    
+}
+
+li {
+    display: ;
+    padding: 15px;
+    margin-top: -5x;
+    white-space: nowrap;
+    text-align: center;
+    
+    
+    
+    
+}
+
+#myVideo {
+    position:fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
