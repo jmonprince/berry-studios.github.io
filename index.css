@@ -3,16 +3,16 @@
 ul {
     
     list-style: none;
-    font-family: arial;
-    font-size: 85px;
+    font-family: catcall;
+    font-size: 50px;
     margin-right: 41px;
     margin-left: auto;  
-    font-weight: 600;
+    font-weight: 100;
     color: black;
-    text-transform: uppercase;
     white-space: nowrap;
     color: black;
     margin-top: 50px;
+   
 
     
  
@@ -24,6 +24,11 @@ li {
     padding: 15px;
     white-space: nowrap;
     text-align: center;
+    display: inherit;
+    margin-left: 100px;
+    margin-right: 100px;;
+  
+    
 
     
     
@@ -53,8 +58,8 @@ a:visited {
 
 
 a:hover {
-    text-decoration: line-through;
-    color: black;
+    text-decoration:underline;
+    color: darkred;
     
     
 }
@@ -64,16 +69,26 @@ a:hover {
 
 
 img {
-    width: 200px;
-    height: 200px;
+    width: auto;
+    height: 100px;
     margin-left: auto;
     margin-right: auto;
     display: block;
+    margin-top: 100px;
 
     
     
     
 }
+
+
+@font-face
+{
+font-family: jfont2;
+src: url('catcall.ttf'),
+url('jfont2.eot');
+}
+
 
 
 @font-face
