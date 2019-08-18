@@ -20,6 +20,16 @@ ul {
     
 }
 
+
+
+head {
+     width: auto;
+    height: 100px;
+    
+    
+}
+
+
 li {
     padding: 15px;
     white-space: nowrap;

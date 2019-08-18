@@ -82,6 +82,16 @@ img {
 }
 
 
+
+head {
+     width: auto;
+    height: 100px;
+    
+    
+}
+
+
+
 @font-face
 {
 font-family: jfont2;
