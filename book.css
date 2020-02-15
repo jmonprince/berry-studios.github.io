@@ -5,7 +5,7 @@ ul {
     list-style: none;
     font-family: catcall;
     font-size: 70px;
-    margin-right: 41px;
+    margin-right: auto;
     margin-left: auto;  
     font-weight: 00;
     color: black;
@@ -32,12 +32,12 @@ head {
 
 
 li {
-    padding: 15px;
+    padding: 20px;
     white-space: nowrap;
     text-align: center;
     display: inherit;
     margin-left: 100px;
-    margin-right: 100px;;
+    margin-right: 150px;;
   
     
 
