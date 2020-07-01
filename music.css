@@ -1,0 +1,72 @@
+img {
+    width: 40%;;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    
+    
+    
+}
+
+
+
+head {
+     width: auto;
+    height: 100px;
+    
+    
+}
+
+
+
+h1 {
+     font-family: arial;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 30px;
+    font-size: 100%;
+    
+}
+
+
+h2 {
+     font-family: arial;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 75px;
+    font-size: 100%;
+    
+}
+
+
+
+
+a:link {
+    
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+
+
+a:visited {
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+
+
+a:hover {
+    text-decoration: line-through;
+    color: black;
+    
+    
+}
